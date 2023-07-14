@@ -1,3 +1,4 @@
+![logo](https://github.com/anobes6416/anobes6416/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Kankot_Coder</h1>
 <h3 align="center">A passionate Software Developer from Ethiopia</h3>
 <img src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" width="350" height="250" align="right" alt="Coder">
