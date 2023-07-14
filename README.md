@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Frameworks and Other course**
 
-- 💬 Ask me about **JS | Flutter | Laravel | Digital_Marketing**
+- 💬 Ask me about **JS | Flutter | Digital_Marketing**
 
- -🤝 I’m looking for help with my team
+  -🤝 I’m looking for help with my team
 
 - 📫 How to reach me **sebonaifa777@gmail.com**
 
