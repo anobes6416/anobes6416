@@ -1,12 +1,12 @@
 ![logo](https://github.com/anobes6416/anobes6416/blob/main/banner1.png)
-<h1 align="center">Hi 👋, I'm Kankot_Coder</h1>
+<h1 align="center">Hi 👋, I'm Sebona Ifa</h1>
 <h3 align="center">A passionate Software Developer from Ethiopia</h3>
 <img src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" width="350" height="250" align="right" alt="Coder">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anobes6417&label=Profile%20views&color=0e75b6&style=flat" alt="anobes6417" /> </p>
 
 - 🌱 I’m currently learning **Frameworks and Other course**
 
-- 💬 Ask me about **JS | Flutter | Digital_Marketing**
+- 💬 Ask me about **JS | Flutter | React**
 
   -🤝 I’m looking for help with my team
 
